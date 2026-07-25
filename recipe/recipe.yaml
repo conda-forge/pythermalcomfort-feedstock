@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "4.0.3"
+  version: "4.3.0"
 
 package:
   name: pythermalcomfort
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pythermalcomfort/pythermalcomfort-${{ version }}.tar.gz
-  sha256: a75e4c52aa33d4704fc6ad3415e6795405c07f4fd21530ce2cc159ca8a88adcf
+  sha256: df2363fd90a5327eeedc6f452708b1029eeab581686cfa92375f76982150fe28
 
 build:
   number: 0
